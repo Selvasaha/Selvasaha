@@ -23,10 +23,6 @@ I'm seeking a role where I can contribute to dynamic, challenging projects and c
 - **Tech Stack**: Django, ReactJS, Python
 - **Description**: Created a web-based system for tracking and recycling e-waste by analyzing and categorizing electronic waste data.
 
-#### 3. **Silly Royale Clone**
-- **Tech Stack**: JavaScript, NodeJS
-- **Description**: Built a multiplayer game platform inspired by Silly Royale with real-time game features and online playability.
-
 ### 🌐 Get in Touch:
 - [LinkedIn](https://www.linkedin.com/in/selvaprakash-p/)
 - [GitHub](https://github.com/Selvasaha)
