@@ -27,17 +27,28 @@ I'm a passionate Full Stack Developer who loves to bring ideas to life through c
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+**Database Management** 📂  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks** 🧩  
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Version Control** 🔄  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 **Tools & Technologies** 🛠️  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
 ## 🧩 Skills  
-- **Problem Solving** ![Problem Solving](https://img.shields.io/badge/-brightgreen?style=flat-square&logo=hackerrank&logoColor=white)  
-- **Collaboration** ![Collaboration](https://img.shields.io/badge/-ff69b4?style=flat-square&logo=teamspeak&logoColor=white)  
-- **Creative Coding** ![Creative Coding](https://img.shields.io/badge/-purple?style=flat-square&logo=creative-commons&logoColor=white)  
+- **Problem Solving** ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-brightgreen?style=flat-square&logo=hackerrank&logoColor=white)  
+- **Collaboration** ![Collaboration](https://img.shields.io/badge/-Collaboration-ff69b4?style=flat-square&logo=teamspeak&logoColor=white)  
+- **Creative Coding** ![Creative Coding](https://img.shields.io/badge/-Creative%20Coding-purple?style=flat-square&logo=creative-commons&logoColor=white)  
 - **JavaScript Expertise** ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat-square&logo=javascript&logoColor=black)  
 - **Database Management**: MySQL  
 - **Frameworks**: ReactJS, Django, Node.js, PHP  
@@ -47,17 +58,17 @@ I'm a passionate Full Stack Developer who loves to bring ideas to life through c
 
 ## 🚀 Featured Projects  
 
-### 🌐 [Digital Car Parking System]
+### 🌐 [Digital Car Parking System]  
 **Tech Stack**: Python, OpenCV  
 Crafted a smart car parking system using real-time video processing.  
 **Highlights**: Automated space detection, enhanced efficiency, and robust video analysis.
 
-### ♻️ [E-Waste Management System]
+### ♻️ [E-Waste Management System]  
 **Tech Stack**: Python, Django, MySQL  
 Developed a system to categorize and recycle e-waste effectively.  
 **Highlights**: Quality analysis, data handling, and efficient recycling processes.
 
-> 💡 Check out my GitHub for more cool projects and code experiments!
+> 💡 Interested in more cool projects and experiments? Feel free to reach out!
 
 ---
 
@@ -76,6 +87,7 @@ I'm passionate about using technology to **solve real-world problems**, whether 
 ## 🌐 Let's Connect & Collaborate!  
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/selvaprakash-p)  
 - **Portfolio**: [Explore my work](https://selvasaha.github.io/portfolio)  
+- **Email**: Interested in collaborating or just want to chat tech? Reach out at [selvaprakash0124@gmail.com](mailto:selvaprakash0124@gmail.com) 📬
 
 > 💬 Feel free to reach out for collaboration, freelance projects, or just a tech chat! 😊
 
