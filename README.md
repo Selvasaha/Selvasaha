@@ -5,6 +5,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/selvaprakash-p) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=github)](https://selvasaha.github.io/portfolio)
 
+![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
+
 ---
 
 ## 👨‍💻 Who Am I?  
@@ -20,6 +22,11 @@ I'm a passionate Full Stack Developer who loves to bring ideas to life through c
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
 ![Tkinter](https://img.shields.io/badge/Tkinter-003366?style=flat-square&logo=python&logoColor=white)
 
+**How I Apply These Skills**:  
+- I design and build **responsive web interfaces** with HTML, CSS, and JavaScript, ensuring cross-browser compatibility and intuitive user experience.
+- I utilize **React** for creating dynamic, component-based UIs, enabling seamless user interaction.
+- Leveraged **Tkinter** in Python to develop desktop applications with interactive front-ends.
+
 **Back-end Power** ⚙️  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
@@ -27,8 +34,17 @@ I'm a passionate Full Stack Developer who loves to bring ideas to life through c
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+**How I Apply These Skills**:  
+- Developed **API-driven backends** using Django and Node.js, ensuring security and performance.
+- Built complex web applications, handling data and business logic with **Python and Django**, emphasizing clean architecture.
+- Used PHP for server-side scripting and **Java** for building scalable backend services.
+
 **Database Management** 📂  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**How I Apply These Skills**:  
+- Expertise in database design and **data normalization**, ensuring optimized queries.
+- Managed and maintained large datasets with **MySQL**, focusing on performance and security.
 
 **Frameworks** 🧩  
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black) 
@@ -36,8 +52,17 @@ I'm a passionate Full Stack Developer who loves to bring ideas to life through c
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
+**How I Apply These Skills**:  
+- I leverage **ReactJS** for creating engaging and responsive web applications.
+- Utilize **Django** for rapid web development, emphasizing clean, pragmatic design.
+- Skilled in using **Node.js** for building scalable network applications.
+
 **Version Control** 🔄  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**How I Apply These Skills**:  
+- Effective use of Git for **version control**, collaborating with teams, managing branches, and resolving conflicts smoothly.
+- I follow best practices in **committing, branching, and code reviews** to ensure high-quality code.
 
 **Tools & Technologies** 🛠️  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
@@ -46,13 +71,13 @@ I'm a passionate Full Stack Developer who loves to bring ideas to life through c
 ---
 
 ## 🧩 Skills  
-- **Problem Solving** ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-brightgreen?style=flat-square&logo=hackerrank&logoColor=white)  
-- **Collaboration** ![Collaboration](https://img.shields.io/badge/-Collaboration-ff69b4?style=flat-square&logo=teamspeak&logoColor=white)  
-- **Creative Coding** ![Creative Coding](https://img.shields.io/badge/-Creative%20Coding-purple?style=flat-square&logo=creative-commons&logoColor=white)  
-- **JavaScript Expertise** ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat-square&logo=javascript&logoColor=black)  
-- **Database Management**: MySQL  
-- **Frameworks**: ReactJS, Django, Node.js, PHP  
-- **Version Control**: Git  
+- **Problem Solving**: Adept at tackling complex coding puzzles and finding innovative solutions to real-world challenges.  
+- **Collaboration**: Experienced in working with cross-functional teams to achieve project goals efficiently.  
+- **Creative Coding**: I enjoy experimenting with code to create unique, user-friendly solutions that stand out.  
+- **JavaScript Expertise**: Skilled in writing clean, efficient JavaScript, focusing on performance and maintainability.  
+- **Database Management**: Proficient in designing, optimizing, and maintaining databases, ensuring data integrity.  
+- **Frameworks**: Familiar with various frameworks, choosing the best one for each project to ensure scalability and efficiency.  
+- **Version Control**: Mastered Git for managing project versions, collaborating with teams, and maintaining code quality.
 
 ---
 
@@ -74,6 +99,14 @@ Developed a system to categorize and recycle e-waste effectively.
 
 ## 🌱 What Drives Me  
 I'm passionate about using technology to **solve real-world problems**, whether it's optimizing processes or enhancing user experience. I believe in writing clean, maintainable code that not only works but **works beautifully**. Creativity fuels my coding journey, and I'm always eager to explore new technologies.
+
+---
+
+## 🌟 Future Goals & Current Focus  
+- **Learning Node.js** to enhance my back-end skills further.  
+- Exploring more about **Cloud Computing** and **DevOps** to understand deployment and automation.  
+- Keen to dive deeper into **AI and machine learning** to integrate smart features into my future projects.  
+- Continuously improving my JavaScript skills and exploring **TypeScript**.
 
 ---
 
