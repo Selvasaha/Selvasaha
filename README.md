@@ -39,9 +39,19 @@ I'm a passionate Full Stack Developer who loves to bring ideas to life through c
 - **Collaboration** ![Collaboration](https://img.shields.io/badge/-ff69b4?style=flat-square&logo=teamspeak&logoColor=white)  
 - **Creative Coding** ![Creative Coding](https://img.shields.io/badge/-purple?style=flat-square&logo=creative-commons&logoColor=white)  
 - **JavaScript Expertise** ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat-square&logo=javascript&logoColor=black)  
-- **Database Management**: MySQL  
-- **Frameworks**: ReactJS, Django, Node.js, PHP  
-- **Version Control**: Git  
+
+**Database Management** 🗄️  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+
+**Frameworks** 🌐  
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
+
+**Version Control** 🛠️  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+  
 
 ---
 
