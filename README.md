@@ -1,104 +1,84 @@
-# 🌟 Hey there! I'm Selvaprakash P 🌟  
-### Full Stack Developer | Problem Solver | Tech Enthusiast  
-**Coimbatore, Tamilnadu, India**  
-📧 [selvaprakash0124@gmail.com](mailto:selvaprakash0124@gmail.com) | 📞 +91 9360712178  
+# 🌟 **Selvaprakash P** - Full Stack Developer 🌟  
+_**Passionate about solving problems, building robust applications, and creating seamless user experiences!**_
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/selvaprakash-p) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=github)](https://selvasaha.github.io/portfolio)
-
----
-
-## 👨‍💻 Who Am I?  
-I'm a passionate Full Stack Developer who loves to bring ideas to life through code. From crafting pixel-perfect user interfaces to building robust back-end systems, I aim to create digital experiences that are both **functional** and **beautiful**. I'm driven by curiosity, creativity, and a constant desire to learn.
+[![GitHub](https://img.shields.io/badge/GitHub-selvasaha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/selvasaha)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Selvaprakash%20P-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selvaprakash-p)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-selvasaha.github.io/portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://selvasaha.github.io/portfolio)  
+[![Email](https://img.shields.io/badge/Email-selvaprakash0124%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:selvaprakash0124@gmail.com)
 
 ---
 
-## 🛠️ My Tech Toolbox  
-**Front-end Magic** ✨  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Tkinter](https://img.shields.io/badge/Tkinter-003366?style=flat-square&logo=python&logoColor=white)
+## 🌟 **About Me**  
+I’m **Selvaprakash P**, a passionate **Full Stack Developer** from **Coimbatore, Tamilnadu**, with a strong background in both **front-end** and **back-end** technologies. I strive to craft clean, efficient, and scalable applications, enhancing user experiences and contributing to impactful projects.
 
-**Back-end Power** ⚙️  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+🔍 **My strengths**:  
+- Problem-solving with creative coding solutions  
+- Strong team collaboration and communication  
+- Always learning and optimizing my skills
 
-**Tools & Technologies** 🛠️  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
-![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+💻 **Tech Stack**:  
+- **Frontend**: ![HTML5](https://img.shields.io/badge/HTML5-F7DF1E?style=flat-square&logo=html5&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat-square&logo=javascript&logoColor=black) ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)  
+- **Backend**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
+- **Database**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+- **Tools**: ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+- **Other**: ![Tkinter](https://img.shields.io/badge/Tkinter-008B8B?style=flat-square&logo=python&logoColor=white)  
 
 ---
 
-## 🧩 Skills  
-- **Problem Solving** ![Problem Solving](https://img.shields.io/badge/-brightgreen?style=flat-square&logo=hackerrank&logoColor=white)  
-- **Collaboration** ![Collaboration](https://img.shields.io/badge/-ff69b4?style=flat-square&logo=teamspeak&logoColor=white)  
-- **Creative Coding** ![Creative Coding](https://img.shields.io/badge/-purple?style=flat-square&logo=creative-commons&logoColor=white)  
-- **JavaScript Expertise** ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat-square&logo=javascript&logoColor=black)  
+## 💼 **Professional Experience**
 
-**Database Management** 🗄️  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+### 🔹 **Analyst**  
+**Objectways Technologies** | Coimbatore, Tamilnadu, India | **May 2024 - Present**  
+- Annotated and analyzed AI data for training and input into AI systems.  
+- Managed a range of data formats, ensuring quality and relevance.  
+- Collaborated with cross-functional teams to optimize AI system performance.
 
-**Frameworks** 🌐  
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-
-**Version Control** 🛠️  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-  
+### 🔹 **Data Scientist Intern**  
+**Digital Garage** | Coimbatore, Tamilnadu, India | **Feb 2024 - Apr 2024**  
+- Focused on data management, security, and protection.  
+- Enhanced data handling and analysis processes, contributing to improved data insights.
 
 ---
 
-## 🚀 Featured Projects  
+## 🎓 **Education**  
+**Bachelor of Engineering in Computer Science and Engineering**  
+Akshaya College of Engineering and Technology | Coimbatore, Tamilnadu, India | **Mar 2024** | CGPA: **7.6**  
 
-### 🌐 [Digital Car Parking System]
-**Tech Stack**: Python, OpenCV  
-Crafted a smart car parking system using real-time video processing.  
-**Highlights**: Automated space detection, enhanced efficiency, and robust video analysis.
+**Higher Secondary Certificate (HSC)**  
+S S H N Hr Sec School | Muhavoor, Tamilnadu, India | **Mar 2020** | Percentage: **65.33%**  
 
-### ♻️ [E-Waste Management System]
-**Tech Stack**: Python, Django, MySQL  
-Developed a system to categorize and recycle e-waste effectively.  
-**Highlights**: Quality analysis, data handling, and efficient recycling processes.
-
-> 💡 Check out my GitHub for more cool projects and code experiments!
+**Secondary School Leaving Certificate (SSLC)**  
+S S H N Hr Sec School | Muhavoor, Tamilnadu, India | **Mar 2018** | Percentage: **76.4%**  
 
 ---
 
-## 🌱 What Drives Me  
-I'm passionate about using technology to **solve real-world problems**, whether it's optimizing processes or enhancing user experience. I believe in writing clean, maintainable code that not only works but **works beautifully**. Creativity fuels my coding journey, and I'm always eager to explore new technologies.
+## 📈 **Projects**  
+
+### 🔹 **Digital Car Parking System**  
+_**Technologies**: Python, OpenCV_  
+- Developed a system for real-time parking space detection and management.  
+- Integrated real-time video analysis for automated parking space management.  
+
+### 🔹 **E-Waste Management System**  
+_**Technologies**: Python, Django, MySQL_  
+- Contributed to an E-Waste Management System for effective recycling.  
+- Managed large datasets and ensured timely recycling allocation.
 
 ---
 
-## 📚 My Journey So Far  
-- 🎓 **B.E. in Computer Science and Engineering** - Akshaya College of Engineering and Technology, Coimbatore (CGPA: 7.6)
-- 🧠 Constantly learning, improving, and embracing challenges.
-- 💬 Love to discuss tech trends, brainstorm solutions, and collaborate with like-minded enthusiasts.
+## 🔑 **Key Strengths**  
+- **Problem Solver** 🧩: Skilled in delivering clean and efficient coding solutions.  
+- **Collaborator** 🤝: Effective communicator and team player in cross-functional environments.  
+- **Creative Coder** 🎨: Innovative thinker who loves tackling coding challenges with creative solutions.
 
 ---
 
-## 🌐 Let's Connect & Collaborate!  
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/selvaprakash-p)  
-- **Portfolio**: [Explore my work](https://selvasaha.github.io/portfolio)  
-
-> 💬 Feel free to reach out for collaboration, freelance projects, or just a tech chat! 😊
+## 💬 **Let's Connect!**  
+Feel free to reach out to me for collaborations, project discussions, or just to chat about new technologies. You can contact me via [Email](mailto:selvaprakash0124@gmail.com), [LinkedIn](https://www.linkedin.com/in/selvaprakash-p), or check out my [Portfolio](https://selvasaha.github.io/portfolio) for more information. 😊  
 
 ---
 
-## 🔥 Fun Facts  
-- 🚀 I'm a **Full Stack Dev** who loves solving coding puzzles.  
-- 🌌 A curious mind who finds joy in turning ideas into **reality** with code.  
-- 🎨 My creativity doesn't stop at coding—I'm always on the lookout for innovative solutions.
+## 📂 **Technologies I Use & Love**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-008B8B?style=flat-square&logo=python&logoColor=white)  
 
----
-
-Thank you for stopping by!  
-Let's build something amazing together! 💻✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=selvasaha&style=flat-square)
