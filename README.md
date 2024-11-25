@@ -23,30 +23,36 @@ I'm a passionate Full Stack Developer who loves to bring ideas to life through c
 **Back-end Power** ⚙️  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Tools & Skills** 🛠️  
+**Tools & Technologies** 🛠️  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-**Problem Solving** 🧩  
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-brightgreen?style=flat-square&logo=hackerrank&logoColor=white)  
-**Collaboration** 🤝  
-![Collaboration](https://img.shields.io/badge/Collaboration-ff69b4?style=flat-square&logo=teamspeak&logoColor=white)  
-**Creative Coding** 🎨  
-![Creative Coding](https://img.shields.io/badge/Creative%20Coding-purple?style=flat-square&logo=creative-commons&logoColor=white)
+---
+
+## 🧩 Skills  
+- **Problem Solving** ![Problem Solving](https://img.shields.io/badge/-brightgreen?style=flat-square&logo=hackerrank&logoColor=white)  
+- **Collaboration** ![Collaboration](https://img.shields.io/badge/-ff69b4?style=flat-square&logo=teamspeak&logoColor=white)  
+- **Creative Coding** ![Creative Coding](https://img.shields.io/badge/-purple?style=flat-square&logo=creative-commons&logoColor=white)  
+- **JavaScript Expertise** ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=flat-square&logo=javascript&logoColor=black)  
+- **Database Management**: MySQL  
+- **Frameworks**: ReactJS, Django, Node.js, PHP  
+- **Version Control**: Git  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🌐 [Digital Car Parking System](https://github.com/your-project-link)  
+### 🌐 [Digital Car Parking System]
 **Tech Stack**: Python, OpenCV  
 Crafted a smart car parking system using real-time video processing.  
 **Highlights**: Automated space detection, enhanced efficiency, and robust video analysis.
 
-### ♻️ [E-Waste Management System](https://github.com/your-project-link)  
+### ♻️ [E-Waste Management System]
 **Tech Stack**: Python, Django, MySQL  
 Developed a system to categorize and recycle e-waste effectively.  
 **Highlights**: Quality analysis, data handling, and efficient recycling processes.
