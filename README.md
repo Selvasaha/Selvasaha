@@ -17,7 +17,8 @@ I'm a passionate Full Stack Developer who loves to bring ideas to life through c
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Tkinter](https://img.shields.io/badge/Tkinter-003366?style=flat-square&logo=python&logoColor=white)
 
 **Back-end Power** ⚙️  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
@@ -27,7 +28,14 @@ I'm a passionate Full Stack Developer who loves to bring ideas to life through c
 **Tools & Skills** 🛠️  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
-**Problem Solving** | **Collaboration** | **Creative Coding**
+![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Problem Solving** 🧩  
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-brightgreen?style=flat-square&logo=hackerrank&logoColor=white)  
+**Collaboration** 🤝  
+![Collaboration](https://img.shields.io/badge/Collaboration-ff69b4?style=flat-square&logo=teamspeak&logoColor=white)  
+**Creative Coding** 🎨  
+![Creative Coding](https://img.shields.io/badge/Creative%20Coding-purple?style=flat-square&logo=creative-commons&logoColor=white)
 
 ---
 
