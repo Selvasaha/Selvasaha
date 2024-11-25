@@ -47,12 +47,12 @@ I'm a passionate Full Stack Developer who loves to bring ideas to life through c
 
 ## 🚀 Featured Projects  
 
-### 🌐 [Digital Car Parking System](https://github.com/your-project-link)  
+### 🌐 [Digital Car Parking System]
 **Tech Stack**: Python, OpenCV  
 Crafted a smart car parking system using real-time video processing.  
 **Highlights**: Automated space detection, enhanced efficiency, and robust video analysis.
 
-### ♻️ [E-Waste Management System](https://github.com/your-project-link)  
+### ♻️ [E-Waste Management System]
 **Tech Stack**: Python, Django, MySQL  
 Developed a system to categorize and recycle e-waste effectively.  
 **Highlights**: Quality analysis, data handling, and efficient recycling processes.
