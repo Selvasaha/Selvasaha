@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/selvaprakash-p) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=github)](https://selvasaha.github.io/portfolio)
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Profile)
 
 ---
 
